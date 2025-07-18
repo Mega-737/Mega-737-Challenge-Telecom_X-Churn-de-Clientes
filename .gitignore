@@ -3,4 +3,10 @@
 config.ini
 *.swp
 *.swo
-.env
+*.env
+txt
+*.csv
+*.json
+*.xlsx
+*.env
+dados/ 
