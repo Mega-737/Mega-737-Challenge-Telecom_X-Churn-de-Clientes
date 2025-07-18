@@ -1,0 +1,6 @@
+*.log
+*.temp
+config.ini
+*.swp
+*.swo
+.env
