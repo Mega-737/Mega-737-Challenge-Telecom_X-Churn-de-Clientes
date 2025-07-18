@@ -49,7 +49,7 @@ Utilizou-se:
 
 ## 📁 Fonte dos Dados
 - Banco de Dados extraído da plataforma do GitHub: [ingridcristh/challenge2-data-science](https://github.com/ingridcristh/challenge2-data-science)
-- Acesso ao projeto no GitHub: [https://github.com/Mega-737/Mega-737-Challenge-Telecom_X-Churn-de-Clientes.git](https://github.com/Mega-737/Mega-737-Challenge-T
+- Acesso ao projeto no GitHub:
 
-## ®️ Licença
-   Este projeto está sob a </Licença MIT>**
+# ®️ Licença
+Este projeto está sob a **<u>LICENÇA MIT</u>** 
