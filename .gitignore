@@ -3,10 +3,12 @@
 config.ini
 *.swp
 *.swo
-*.env
-txt
+.txt
 *.csv
-*.json
 *.xlsx
-*.env
-dados/ 
+*dados/ 
+.env 
+.env.*
+config.py
+*.key
+.venv/
